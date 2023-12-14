@@ -71,9 +71,9 @@ Clean the data just a bit more. Add columns that will be useful later, change th
 
   1. Drop `Additional_Number_of_Scoring`
 
-  1. Replace `Total_Number_of_Reviews` with the total number of reviews for that hotel that are actually in the dataset 
+  2. Replace `Total_Number_of_Reviews` with the total number of reviews for that hotel that are actually in the dataset 
 
-  1. Replace `Average_Score` with our own calculated score
+  3. Replace `Average_Score` with our own calculated score
 
   ```python
   # Drop `Additional_Number_of_Scoring`
